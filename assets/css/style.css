@@ -9838,3 +9838,28 @@ ul.comment-list:has(> .ot-comment-item ~ .ot-comment-item):first-child
     padding-bottom: 70px;
   }
 }
+
+.img-con img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 20%;
+  left: 00%;
+  color: white;
+  opacity: 0.4;
+  padding: 10px 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.sabha-loc {
+  color: var(--theme-color);
+}
+
+.sabha-place {
+  font-weight: 600;
+}
