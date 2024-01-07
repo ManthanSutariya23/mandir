@@ -9863,3 +9863,12 @@ ul.comment-list:has(> .ot-comment-item ~ .ot-comment-item):first-child
 .sabha-place {
   font-weight: 600;
 }
+
+.back-img {
+  background-image: url('assets/img/vachnamrut-detail.jpg'); 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  height: 100vh; 
+  background-position: center; 
+}
