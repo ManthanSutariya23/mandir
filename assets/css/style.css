@@ -3793,7 +3793,7 @@ a.text-theme:hover,
   text-transform: capitalize;
 }
 .main-menu ul.sub-menu li a:before {
-  content: url("../img/logo-icon-small.svg");
+/*  content: url("../img/logo-icon-small.svg");*/
   position: absolute;
   top: 6px;
   left: 10px;
@@ -3812,7 +3812,7 @@ a.text-theme:hover,
   transition: 0.3s ease-in-out;
 }
 .main-menu ul.sub-menu li a:hover {
-  padding-left: 21px;
+/*  padding-left: 21px;*/
 }
 .main-menu ul.sub-menu li a:hover:before {
   visibility: visible;
